@@ -1,9 +1,0 @@
-D:\PrimeHolding\PrimeHolding\SeleniumWebDriver\bin\Debug\netcoreapp3.1\SeleniumWebDriver.deps.json
-D:\PrimeHolding\PrimeHolding\SeleniumWebDriver\bin\Debug\netcoreapp3.1\SeleniumWebDriver.dll
-D:\PrimeHolding\PrimeHolding\SeleniumWebDriver\bin\Debug\netcoreapp3.1\SeleniumWebDriver.pdb
-D:\PrimeHolding\PrimeHolding\SeleniumWebDriver\obj\Debug\netcoreapp3.1\SeleniumWebDriver.csprojAssemblyReference.cache
-D:\PrimeHolding\PrimeHolding\SeleniumWebDriver\obj\Debug\netcoreapp3.1\SeleniumWebDriver.AssemblyInfoInputs.cache
-D:\PrimeHolding\PrimeHolding\SeleniumWebDriver\obj\Debug\netcoreapp3.1\SeleniumWebDriver.AssemblyInfo.cs
-D:\PrimeHolding\PrimeHolding\SeleniumWebDriver\obj\Debug\netcoreapp3.1\SeleniumWebDriver.csproj.CoreCompileInputs.cache
-D:\PrimeHolding\PrimeHolding\SeleniumWebDriver\obj\Debug\netcoreapp3.1\SeleniumWebDriver.dll
-D:\PrimeHolding\PrimeHolding\SeleniumWebDriver\obj\Debug\netcoreapp3.1\SeleniumWebDriver.pdb
