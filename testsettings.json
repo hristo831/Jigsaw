@@ -1,0 +1,6 @@
+{
+  "testSettings": {
+    "Browser": "Chrome",
+	"BaseUrl": "https://app.dev.jigsawinteractive.com/"
+  }
+}

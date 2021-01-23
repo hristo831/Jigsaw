@@ -1,0 +1,14 @@
+D:\PrimeHolding\PrimeHolding\Pages\bin\Debug\netcoreapp3.1\Pages.deps.json
+D:\PrimeHolding\PrimeHolding\Pages\bin\Debug\netcoreapp3.1\Pages.dll
+D:\PrimeHolding\PrimeHolding\Pages\bin\Debug\netcoreapp3.1\Pages.pdb
+D:\PrimeHolding\PrimeHolding\Pages\bin\Debug\netcoreapp3.1\SeleniumWebDriver.dll
+D:\PrimeHolding\PrimeHolding\Pages\bin\Debug\netcoreapp3.1\TestConfiguration.dll
+D:\PrimeHolding\PrimeHolding\Pages\bin\Debug\netcoreapp3.1\SeleniumWebDriver.pdb
+D:\PrimeHolding\PrimeHolding\Pages\bin\Debug\netcoreapp3.1\TestConfiguration.pdb
+D:\PrimeHolding\PrimeHolding\Pages\obj\Debug\netcoreapp3.1\Pages.csprojAssemblyReference.cache
+D:\PrimeHolding\PrimeHolding\Pages\obj\Debug\netcoreapp3.1\Pages.AssemblyInfoInputs.cache
+D:\PrimeHolding\PrimeHolding\Pages\obj\Debug\netcoreapp3.1\Pages.AssemblyInfo.cs
+D:\PrimeHolding\PrimeHolding\Pages\obj\Debug\netcoreapp3.1\Pages.csproj.CoreCompileInputs.cache
+D:\PrimeHolding\PrimeHolding\Pages\obj\Debug\netcoreapp3.1\Pages.csproj.CopyComplete
+D:\PrimeHolding\PrimeHolding\Pages\obj\Debug\netcoreapp3.1\Pages.dll
+D:\PrimeHolding\PrimeHolding\Pages\obj\Debug\netcoreapp3.1\Pages.pdb

@@ -1,0 +1,9 @@
+D:\PrimeHolding\PrimeHolding\TestConfiguration\bin\Debug\netcoreapp3.1\TestConfiguration.deps.json
+D:\PrimeHolding\PrimeHolding\TestConfiguration\bin\Debug\netcoreapp3.1\TestConfiguration.dll
+D:\PrimeHolding\PrimeHolding\TestConfiguration\bin\Debug\netcoreapp3.1\TestConfiguration.pdb
+D:\PrimeHolding\PrimeHolding\TestConfiguration\obj\Debug\netcoreapp3.1\TestConfiguration.csprojAssemblyReference.cache
+D:\PrimeHolding\PrimeHolding\TestConfiguration\obj\Debug\netcoreapp3.1\TestConfiguration.AssemblyInfoInputs.cache
+D:\PrimeHolding\PrimeHolding\TestConfiguration\obj\Debug\netcoreapp3.1\TestConfiguration.AssemblyInfo.cs
+D:\PrimeHolding\PrimeHolding\TestConfiguration\obj\Debug\netcoreapp3.1\TestConfiguration.csproj.CoreCompileInputs.cache
+D:\PrimeHolding\PrimeHolding\TestConfiguration\obj\Debug\netcoreapp3.1\TestConfiguration.dll
+D:\PrimeHolding\PrimeHolding\TestConfiguration\obj\Debug\netcoreapp3.1\TestConfiguration.pdb
